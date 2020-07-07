@@ -8,6 +8,16 @@ h1 {
   color: white; 
 }
 
+.heading{
+  display: flex;
+  justify-content: center
+}
+
+
+.nav{
+  display: flex;
+  justify-content: center
+}
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
 
