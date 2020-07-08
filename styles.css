@@ -1,15 +1,15 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #33cc33; 
+ background-color: purple; 
 }
 
 
-h3 {
+p,h1,h2,h3 {
   color: white; 
   
 }
 
-.heading{
+.heading, .text, .img{
   display: flex;
   justify-content: center; 
 }
