@@ -4,21 +4,28 @@ body {
 }
 
 
-h1 {
+h3 {
   color: white; 
+  
 }
 
 .heading{
   display: flex;
-  justify-content: center
+  justify-content: center; 
 }
 
 
-.nav{
+.nav { 
   display: flex;
-  justify-content: center
+  justify-content: center; 
+  background-color: white
+    
 }
   
+.img {
+  border-width: thin; 
+  border-color: purple
+}
   
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
