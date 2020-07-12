@@ -14,7 +14,8 @@ h3 {
 /*center*/
 .heading,
 .text,
-.img {
+.img,
+.tickcounter {
   display: flex;
   justify-content: center;
 }
